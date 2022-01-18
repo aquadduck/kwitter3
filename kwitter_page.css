@@ -1,0 +1,12 @@
+body 
+{
+    text-align: center;
+    font-style: 'Open Sans', sans-serif;
+    background-image: url("https://lowkeytech.com/wp-content/uploads/2020/10/10-Best-Live-Wallpapers-for-Windows-10-Wallpaper-Engine.jpg");
+    background-size: cover; 
+}
+
+h1
+{
+    color: white;
+}
